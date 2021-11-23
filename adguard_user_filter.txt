@@ -1,0 +1,17 @@
+﻿@@||facebook.com/ajax/bnzai
+@@||edf.eset.com
+kenh14.vn###admWrapsite > div.kenh14-wrapper.category.k14-home.syb-web:last-child > div.kenh14-body-wrapper:nth-child(3) > div.kbw-content > div.w1040 > div.kbwc-body.clearfix > div.w300.fr:first-child
+kenh14.vn###admWrapsite > div.kenh14-wrapper.category.k14-home.syb-web:last-child > div.kenh14-body-wrapper:nth-child(3) > div.kbw-content > div.w1040 > div.kbwc-body.clearfix > div.w720.kbwcb-left.fl:last-child > div.kbwcb-left-wrapper > div.kds-new-stream-wrapper:last-child > ul.knsw-list > li.knswli.trendAd.clearfix.done-get-type.done-get-sticker:nth-child(8) > div.trendAd-wrapper.w1040 > div.flx-trendAd-crsk14:first-child > div.trendAd-right.crsk14:last-child
+@@||www.dafontvn.com^$important,document
+genshin.gg###root > div.App.d-flex.flex-column > section.container:nth-child(2) > div.row:nth-child(4) > main.content > div.wrapper-lb1:nth-child(3)
+genshin.gg###root > div.App.d-flex.flex-column > section.container:nth-child(2) > div.row:nth-child(4) > main.content > div.wrapper-lb1:nth-child(6)
+genshin.gg###root > div.App.d-flex.flex-column > section.container:nth-child(2) > div.row:nth-child(4) > main.content > div.character > div.wrapper-lb1:nth-child(3)
+genshin.gg###root > div.App.d-flex.flex-column > section.container:nth-child(2) > div.row:nth-child(4) > main.content > div.character > div.wrapper-lb1:nth-child(8)
+genk.vn###admWrapsite > div.genk-wrapper.category.home:last-child > div.gk_home20-wrapper.genk-body-wrapper:nth-child(2) > div.w1160 > div.gk_section-top:first-child > div.gk_flx.justifySB:first-child > div.gk_bigright:last-child > div.gk_flx.justifySB > div.gk_bigright-right:last-child
+vnexpress.net##section.section.section_topstory:nth-child(10) > div.container.flexbox > aside.col-right-top:last-child
+vnexpress.net##section.section.section_stream_home.section_container:nth-child(11) > div.container.has_border.flexbox > div.col-right.col-medium:last-child > div.box-category.box-tygia-vietllot.has-border:nth-child(5) > div.left.box_left:first-child > a
+vnexpress.net##section.section.section_stream_home.section_container:nth-child(11) > div.container.has_border.flexbox > div.col-right.col-medium:last-child > div.box-category.box-tygia-vietllot.has-border:nth-child(5) > div.right.box-link-logo:last-child
+mobafire.com##div.vm-placement.venatus-responsive-ad.d250.t0.m0:nth-child(4)
+hicado.com###custom_html-2
+@@||fptpray.ga^$important,document
+@@||nethd.org^$important,document
