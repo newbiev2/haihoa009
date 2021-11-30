@@ -1,4 +1,4 @@
-﻿@@||facebook.com/ajax/bnzai
+@@||facebook.com/ajax/bnzai
 @@||edf.eset.com
 kenh14.vn###admWrapsite > div.kenh14-wrapper.category.k14-home.syb-web:last-child > div.kenh14-body-wrapper:nth-child(3) > div.kbw-content > div.w1040 > div.kbwc-body.clearfix > div.w300.fr:first-child
 kenh14.vn###admWrapsite > div.kenh14-wrapper.category.k14-home.syb-web:last-child > div.kenh14-body-wrapper:nth-child(3) > div.kbw-content > div.w1040 > div.kbwc-body.clearfix > div.w720.kbwcb-left.fl:last-child > div.kbwcb-left-wrapper > div.kds-new-stream-wrapper:last-child > ul.knsw-list > li.knswli.trendAd.clearfix.done-get-type.done-get-sticker:nth-child(8) > div.trendAd-wrapper.w1040 > div.flx-trendAd-crsk14:first-child > div.trendAd-right.crsk14:last-child
@@ -15,3 +15,4 @@ mobafire.com##div.vm-placement.venatus-responsive-ad.d250.t0.m0:nth-child(4)
 hicado.com###custom_html-2
 @@||fptpray.ga^$important,document
 @@||nethd.org^$important,document
+voz.vn###top > div.p-body:nth-child(5) > div.p-body-inner > div.p-body-main.p-body-main--withSidebar:nth-child(4) > div.p-body-sidebar:last-child
