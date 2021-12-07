@@ -16,3 +16,11 @@ hicado.com###custom_html-2
 @@||fptpray.ga^$important,document
 @@||nethd.org^$important,document
 voz.vn###top > div.p-body:nth-child(5) > div.p-body-inner > div.p-body-main.p-body-main--withSidebar:nth-child(4) > div.p-body-sidebar:last-child
+@@||vtvgo.vn^$important,document
+@@||fap.fpt.edu.vn^$important,document
+forum.glasswire.com###ember120 > div.gw-ad-2 > a > img
+mobafire.com###prime-stream > iframe
+mobafire.com###content > div.wrap-row-d.self-clear > div.mf-responsive__wrap.mf-redesign.view-guide:nth-child(3) > div.mf-responsive__leftCol:nth-child(4) > div.view-guide__stream.no-pad-bot:first-child
+mobafire.com###content > div.wrap-row-d.self-clear > div.mf-responsive__wrap.mf-redesign.view-guide:nth-child(3) > div.mf-responsive__rightCol:last-child > div.box-lb.c.mb10:first-child > a > img.tooltip
+mobafire.com###content > div.wrap-row-d.self-clear > div.mf-responsive__wrap.mf-redesign.view-guide:nth-child(3) > div.mf-responsive__rightCol:last-child > div.vm-placement.venatus-responsive-ad.d600.t600.m0:nth-child(2)
+mobafire.com##div.vm-placement.venatus-responsive-ad.d250.ab-placement-h-250:nth-child(4)
