@@ -28,4 +28,11 @@ mitom.90phuttttt.xyz###overlay > div.modal-dialog > div
 voz.vn###top > div.p-body:nth-child(5) > div.p-body-inner > div.p-body-main.p-body-main--withSidebar:last-child > div.p-body-content:nth-child(3) > div.p-body-pageContent > div.samCodeUnit:nth-child(2) > div.samItem > div.v-responsive.v-xl:last-child > pubtag.adsbypubpower:first-child
 voz.vn###top > div.p-body:nth-child(5) > div.p-body-inner > div.p-body-main.p-body-main--withSidebar:last-child > div.p-body-content:nth-child(3) > div.p-body-pageContent > div.samCodeUnit:nth-child(8) > div.samItem > div.v-responsive.v-xl:last-child > pubtag.adsbypubpower:first-child
 voz.vn###top > div.p-body:nth-child(5) > div.p-body-inner > div.p-body-main.p-body-main--withSidebar:last-child > div.p-body-content:nth-child(3) > div.p-body-pageContent > div.samCodeUnit:last-child > div.samItem > div.v-responsive.v-xl:last-child > pubtag.adsbypubpower:first-child
-vn-z.vn###top > div.p-body:nth-child(6) > div.p-body-inner > div.p-body-main.p-body-main--withSidebar:last-child > div.p-body-sidebar:last-child > a:nth-child(7) > img
+@@||hwbot.org^$important,document
+kenh14.vn###cpm22248
+kenh14.vn###b_zone_0
+tuoitre.vn###iframeout > div.fr:last-child > div.box-worldcup-2018.box-sub-tto.box-raovat:last-child
+tuoitre.vn###iframeout > div.boxright.w490.fr:first-child > div.box-tuoitrecuoi-old:last-child > div.box-block-1:last-child
+tuoitre.vn###content > div.content:first-child > div.w980:first-child > div.default-middle:nth-child(7) > div.w500.fr:last-child > div.sukien2:nth-child(26) > div.box-thinking.fl
+@@||blog.fastssh.com^$important,document
+daominhha.com##div.nk-main:nth-child(4) > div.container:last-child > div.bg-blog > div.row.vertical-gap:last-child > div.col-lg-8:first-child > div.quangcao-down:nth-child(4) > p:first-child
