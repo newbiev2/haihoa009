@@ -36,3 +36,5 @@ tuoitre.vn###iframeout > div.boxright.w490.fr:first-child > div.box-tuoitrecuoi-
 tuoitre.vn###content > div.content:first-child > div.w980:first-child > div.default-middle:nth-child(7) > div.w500.fr:last-child > div.sukien2:nth-child(26) > div.box-thinking.fl
 @@||blog.fastssh.com^$important,document
 daominhha.com##div.nk-main:nth-child(4) > div.container:last-child > div.bg-blog > div.row.vertical-gap:last-child > div.col-lg-8:first-child > div.quangcao-down:nth-child(4) > p:first-child
+daominhha.com##div.nk-main:nth-child(4) > div.container:last-child > div.bg-blog > div.row.vertical-gap:last-child > div.col-lg-8:first-child > div.quangcao-down:nth-child(4) > p:first-child
+mobafire.com###content > div.wrap-row-d.self-clear > div.mf-responsive__wrap.mf-redesign.view-guide:nth-child(3) > div.mf-responsive__leftCol:nth-child(4) > div.view-guide__stream.no-pad-bot:first-child > div.prime-stream
