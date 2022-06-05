@@ -1,5 +1,4 @@
-@@||facebook.com/ajax/bnzai
-@@||edf.eset.com
+
 kenh14.vn###admWrapsite > div.kenh14-wrapper.category.k14-home.syb-web:last-child > div.kenh14-body-wrapper:nth-child(3) > div.kbw-content > div.w1040 > div.kbwc-body.clearfix > div.w300.fr:first-child
 kenh14.vn###admWrapsite > div.kenh14-wrapper.category.k14-home.syb-web:last-child > div.kenh14-body-wrapper:nth-child(3) > div.kbw-content > div.w1040 > div.kbwc-body.clearfix > div.w720.kbwcb-left.fl:last-child > div.kbwcb-left-wrapper > div.kds-new-stream-wrapper:last-child > ul.knsw-list > li.knswli.trendAd.clearfix.done-get-type.done-get-sticker:nth-child(8) > div.trendAd-wrapper.w1040 > div.flx-trendAd-crsk14:first-child > div.trendAd-right.crsk14:last-child
 @@||www.dafontvn.com^$important,document
@@ -14,7 +13,6 @@ vnexpress.net##section.section.section_stream_home.section_container:nth-child(1
 mobafire.com##div.vm-placement.venatus-responsive-ad.d250.t0.m0:nth-child(4)
 hicado.com###custom_html-2
 @@||fptpray.ga^$important,document
-@@||nethd.org^$important,document
 voz.vn###top > div.p-body:nth-child(5) > div.p-body-inner > div.p-body-main.p-body-main--withSidebar:nth-child(4) > div.p-body-sidebar:last-child
 @@||vtvgo.vn^$important,document
 @@||fap.fpt.edu.vn^$important,document
@@ -38,3 +36,12 @@ tuoitre.vn###content > div.content:first-child > div.w980:first-child > div.defa
 daominhha.com##div.nk-main:nth-child(4) > div.container:last-child > div.bg-blog > div.row.vertical-gap:last-child > div.col-lg-8:first-child > div.quangcao-down:nth-child(4) > p:first-child
 daominhha.com##div.nk-main:nth-child(4) > div.container:last-child > div.bg-blog > div.row.vertical-gap:last-child > div.col-lg-8:first-child > div.quangcao-down:nth-child(4) > p:first-child
 mobafire.com###content > div.wrap-row-d.self-clear > div.mf-responsive__wrap.mf-redesign.view-guide:nth-child(3) > div.mf-responsive__leftCol:nth-child(4) > div.view-guide__stream.no-pad-bot:first-child > div.prime-stream
+
+reddit.com###AppRouter-main-content > div._1QwQLdEXq0cZZb7vcte4KK:first-child
+binance.com###__APP > div.css-7elqhi:first-child > div.css-nn0f52 > div.css-12zxtqt:nth-child(5) > div > div.css-vurnku:first-child > div.css-h598e2:last-child > div.css-15aumdt
+binance.com###__APP > div.css-7elqhi:first-child > div.css-nn0f52 > div.css-12zxtqt:nth-child(5)
+geeksforgeeks.org###post-354258 > div.text:last-child > div.textBasedMannualAds_2:nth-child(12)
+tinhte.vn###__next > div.root:first-child > div.jsx-2599222059.main-page:nth-child(2) > div.jsx-2790954478.page-layout.false:nth-child(2) > div.jsx-2790954478.container.false > div.jsx-2790954478.row > div.jsx-2790954478.col-main.additional-padding.undefined > div.jsx-4083475239
+nethd.org##div.container-fluid.pagewidth:nth-child(2) > div:nth-child(6) > div:nth-child(2) > a
+mobafire.com###content > div.wrap-row-d.self-clear > div.mf-responsive__wrap.mf-redesign.view-guide:nth-child(3) > div.mf-responsive__leftCol:nth-child(4) > div.view-guide__stream:first-child > div.prime-stream > div.text-row:first-child
+nhattruyenz.com###app > div.main-content:nth-child(2) > section.section-story:last-child > div.container > div.bg-white > section.section-partner:nth-child(5) > div.container > div.row.row-xs > div.col-12 > a
